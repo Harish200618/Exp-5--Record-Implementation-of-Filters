@@ -65,8 +65,8 @@ Display all filtered images using a grid layout for comparison.
 
 ##  Developed By
 
-- **Name:** MITHUN KUMAR G  
-- **Register No:** 212224230160
+- **Name:** HARISH S  
+- **Register No:** 212224240052
 ---
 
 ##  Output
