@@ -173,6 +173,9 @@ plt.show()
 
 
 <img width="717" height="359" alt="download" src="https://github.com/user-attachments/assets/9981541f-f14a-4a42-bc15-5e4be0ca2cfc" />
+
+###  Using Laplacian Operator
+
 <img width="1408" height="441" alt="image" src="https://github.com/user-attachments/assets/8ac84f83-c3c6-43b6-afca-fd45384e3683" />
 
 
