@@ -143,24 +143,25 @@ plt.show()
 
 ### Smoothing Filters
 
-- Original Image 
+- Original Image
+- 
 <img width="389" height="389" alt="download" src="https://github.com/user-attachments/assets/3391b31f-a782-451f-b419-ba85c216fcaa" />
 
 
 
-- Weighted averaging provides smoother result with less distortion
+  ### Weighted averaging provides smoother result with less distortion
 
 <img width="717" height="359" alt="download" src="https://github.com/user-attachments/assets/0437563e-ccd4-4c72-8b0a-b2d41be87f22" />
 
 
  
-- Gaussian filter preserves edges better while reducing noise
+### Gaussian filter preserves edges better while reducing noise
 
 <img width="717" height="359" alt="download" src="https://github.com/user-attachments/assets/a9ff90aa-a2e2-45d0-b1a4-7dc162cc307d" />
 
 
 
-- Median filter removes salt-and-pepper noise effectively
+### Median filter removes salt-and-pepper noise effectively
 
 <img width="717" height="359" alt="download" src="https://github.com/user-attachments/assets/deeacf85-e2a5-43c2-bf9f-be12184570ad" />
 
